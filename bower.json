@@ -1,0 +1,21 @@
+{
+  "name": "react-tutorials",
+  "description": "",
+  "main": "webpack.config.js",
+  "authors": [
+    "GaoQ <18912936976@163.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
